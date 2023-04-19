@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MongoPasword" : "t7AZw3a",
+        "JWT_KEY": "BinderApp"
+    }
+}
